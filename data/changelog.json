@@ -106,5 +106,11 @@
     "type": "new-problem",
     "id": 24,
     "name": "Is add(N) < add(UN) consistent?"
+  },
+  {
+    "date": "2026-08-25",
+    "type": "new-problem",
+    "id": 25,
+    "name": "The increasing union problem for CBERs"
   }
 ]
