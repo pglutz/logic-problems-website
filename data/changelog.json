@@ -112,5 +112,13 @@
     "type": "new-problem",
     "id": 25,
     "name": "The increasing union problem for CBERs"
+  },
+  {
+    "date": "2026-09-03",
+    "type": "status-change",
+    "id": 4,
+    "name": "Stable Forking Conjecture",
+    "old_status": "open",
+    "new_status": "claimed-proof-no-consensus"
   }
 ]
